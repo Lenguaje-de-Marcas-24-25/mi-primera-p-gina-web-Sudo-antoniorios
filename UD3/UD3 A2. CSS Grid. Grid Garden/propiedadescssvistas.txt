@@ -1,0 +1,9 @@
+En CSS Grid Garden, se practican las siguientes propiedades principales de CSS Grid:
+
+grid-template-columns y grid-template-rows: Definen el tamaño y número de columnas/filas.
+gap: Espaciado entre filas y columnas.
+grid-column y grid-row: Posicionan elementos en columnas/filas específicas.
+grid-area: Asigna áreas en la cuadrícula.
+justify-content y align-content: Alinean la cuadrícula en su contenedor.
+justify-items y align-items: Alinean los elementos dentro de las celdas.
+Esencialmente, aprendes a diseñar y posicionar elementos en una cuadrícula.
