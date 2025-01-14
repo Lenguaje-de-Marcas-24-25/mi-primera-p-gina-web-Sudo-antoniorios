@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+  <channel>
+    <!-- Informacion del canal -->
+    <title>Noticias Deportivas</title>
+    <description>Las ultimas noticias y actualizaciones del mundo deportivo, cubriendo futbol, tenis, y mucho mas.</description>
+    <language>es</language>
+    <pubDate>Wed, 08 Jan 2025 10:00:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 10:00:00 GMT</lastBuildDate>
+    
+    <!-- Imagen representativa del canal -->
+    <image>
+      <url>http://www.noticiasdeportivas.com/logo.png</url>
+      <title>Noticias Deportivas</title>
+      <link>http://www.noticiasdeportivas.com/rss</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    
+    <!-- Primera noticia -->
+    <item>
+      <title>El Barcelona vence al Real Madrid</title>
+      <link>noticia1.html</link>
+      <description>Los merengues han perdido frente al Barcelona.</description>
+      <category>Futbol</category>
+      <author>Antonio Rios</author>
+      <pubDate>Wed, 08 Jan 2025 08:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Segunda noticia -->
+    <item>
+      <title>Novak Djokovic se corona campeon del Abierto de Australia</title>
+      <link>noticia1.html</link>
+      <description>El tenista serbio Novak Djokovic consigue su decimo titulo en el Abierto de Australia tras vencer a Daniil Medvedev.</description>
+      <category>Tenis</category>
+      <author>Antonio Rios</author>
+      <pubDate>Wed, 08 Jan 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marca.com/tenis/open-australia/2025/01/07/alcaraz-cae-djokovic-segundo-entrenamiento-australia.html</guid>
+    </item>
+
+  </channel>
+</rss>
